@@ -35,7 +35,7 @@ Follow these steps to get the project running on your local machine:
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/your-username/athena-lms.git](https://github.com/your-username/athena-lms.git)
-    cd athena-lms
+    cd learning-management-system
     ```
 
 2.  **Install dependencies:**
